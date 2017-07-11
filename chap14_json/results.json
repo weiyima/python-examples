@@ -1,0 +1,76 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "21",
+                    "short_name": "21",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bedok Lane",
+                    "short_name": "Bedok Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Bedok",
+                    "short_name": "Bedok",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Singapore",
+                    "short_name": "Singapore",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Singapore",
+                    "short_name": "SG",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "469777",
+                    "short_name": "469777",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "21 Bedok Ln, Singapore 469777",
+            "geometry": {
+                "location": {
+                    "lat": 1.3289432,
+                    "lng": 103.9487101
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 1.330292180291502,
+                        "lng": 103.9500590802915
+                    },
+                    "southwest": {
+                        "lat": 1.327594219708498,
+                        "lng": 103.9473611197085
+                    }
+                }
+            },
+            "place_id": "ChIJG27tcDI92jERo4OltqAOcZw",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "status": "OK"
+}
